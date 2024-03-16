@@ -1,0 +1,1 @@
+# culculate the gemotric mean
